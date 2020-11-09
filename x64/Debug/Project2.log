@@ -1,0 +1,8 @@
+﻿  Project2.cpp
+C:\Users\cardw\Desktop\cscproj2\Project2.cpp(175,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\cardw\Desktop\cscproj2\Project2.cpp(308,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cardw\Desktop\cscproj2\Project2.cpp(353,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\cardw\Desktop\cscproj2\Project2.cpp(368,201): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\cardw\Desktop\cscproj2\Project2.cpp(373,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\cardw\Desktop\cscproj2\Project2.cpp(430,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project2.vcxproj -> C:\Users\cardw\Desktop\cscproj2\x64\Debug\Project2.exe
